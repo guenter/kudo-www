@@ -16,9 +16,9 @@ footer: Written in Go, maintained by good people.
 
 ---
 
-# Testimonials
+# User Stories
 
-<Testimonials />
+<UserStories />
 
 # There's more to life than Kubernetes
 
